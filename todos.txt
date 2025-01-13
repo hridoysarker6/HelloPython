@@ -1,2 +1,5 @@
-write a desktop application
+write a desktop application with python
 buy a car
+ soon
+hello how are you?
+take a cup of coffee
