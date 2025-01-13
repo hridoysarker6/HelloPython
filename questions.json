@@ -1,0 +1,12 @@
+[
+  {
+    "question_text" : "who is the father of nation?",
+    "alternative" : ["Sheikh Mujibor rohoman","Jiaur Rohman","Tofayel"],
+    "correct_answer": 1
+  },
+  {
+    "question_text" : "when bangladesh was independent?",
+    "alternative" : ["1952","1975","1971"],
+    "correct_answer": 3
+  }
+]
